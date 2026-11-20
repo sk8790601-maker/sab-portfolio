@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-regression-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node regression.cjs"
+  },
+  "license": "ISC",
+  "description": "Optional browser regression checks; not part of the application bundle.",
+  "dependencies": {
+    "playwright": "^1.65.1"
+  },
+  "private": true
+}

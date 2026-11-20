@@ -1,0 +1,32 @@
+{
+  "removed": [
+    "frontend/public/images/project-saas-landing.png",
+    "frontend/public/images/project-luxury-commerce.png",
+    "frontend/public/images/project-wellness-mobile.png",
+    "frontend/public/images/project-prototype-motion.png",
+    "frontend/public/images/project-fintech-dashboard.png",
+    "frontend/public/images/project-design-system.png",
+    "frontend/public/images/project-wireframe-study.png",
+    "frontend/public/images/immersive-preview-1.jpg",
+    "frontend/public/images/immersive-preview-4.jpg",
+    "frontend/public/images/immersive-preview-5.jpg",
+    "frontend/public/images/immersive-preview-3.jpg",
+    "frontend/public/images/immersive-preview-2.jpg",
+    "frontend/public/videos/immersive-preview-4.mp4",
+    "frontend/public/videos/immersive-preview-5.mp4",
+    "frontend/public/videos/immersive-preview-3.mp4",
+    "frontend/public/videos/immersive-preview-1.mp4",
+    "frontend/public/videos/immersive-preview-2.mp4",
+    "frontend/src/assets/images/brand-mark.svg",
+    "frontend/src/assets/videos/README.md"
+  ],
+  "movedToMediaArchive": [
+    "frontend/public/videos/greng-europe-motion.mp4",
+    "frontend/public/videos/greng-rice-husk-plates.mp4",
+    "frontend/public/videos/greng-b2b-brands.mp4",
+    "frontend/public/videos/go-express-logistics.mp4",
+    "frontend/public/videos/travel-toiletry-organizer.mp4",
+    "frontend/public/images/immersive-world.png",
+    "frontend/public/images/immersive-landscape.png"
+  ]
+}
